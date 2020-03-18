@@ -6,7 +6,7 @@
       throw er; // Unhandled 'error' event
       ^
 
-Error: listen EADDRINUSE: address already in use :::3000
+>Error: listen EADDRINUSE: address already in use :::3000
     at Server.setupListenHandle [as _listen2] (net.js:1300:14)
     at listenInCluster (net.js:1348:12)
     at Server.listen (net.js:1436:7)
