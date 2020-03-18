@@ -1,4 +1,4 @@
-# REST-api
+# I tried to deploy locally in Ubuntu 18.04.3 LTS, but it fails
 
 When I start the server with the npm run dev command, I get an error.
 
